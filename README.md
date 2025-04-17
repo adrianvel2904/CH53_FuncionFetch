@@ -9,4 +9,4 @@ Objetivos realizados:
 4. Mostrar cada producto por categoría
 
 >Vista previa del index.html
-![Index]()
+![Index](https://raw.githubusercontent.com/adrianvel2904/CH53_FuncionFetch/refs/heads/main/EjercicioProductos.jpg)
